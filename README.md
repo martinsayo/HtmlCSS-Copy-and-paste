@@ -18,3 +18,9 @@ This repository is designed to allow users to easily copy and paste HTML and CSS
 
    ```bash
    git clone https://github.com/martinsayo/htmlcss-copy-and-paste.git
+
+## License
+
+This project is licensed under the CC0-1.0, CC-BY-4.0, and CC-BY-SA-4.0 licenses. See the LICENSE file for details.
+
+
